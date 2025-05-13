@@ -186,6 +186,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
+| 2021 | ICCV | SGSDI | [Indoor Scene Generation from a Collection of Semantic-Segmented Depth Images](https://arxiv.org/abs/2108.09022) | [![link](https://img.shields.io/badge/Website-9cf)](https://github.com/microsoft/SGSDI/) | [![GitHub](https://img.shields.io/github/stars/microsoft/SGSDI)](https://github.com/microsoft/SGSDI/) |
 | 2021 | ICCV | GANcraft | [GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds](https://arxiv.org/abs/2104.07659) | [![link](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/GANcraft/) | [![GitHub](https://img.shields.io/github/stars/NVlabs/imaginaire)](https://github.com/NVlabs/imaginaire) |
 | 2023 | CVPR | DisCoScene | [DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-aware Scene Synthesis](https://arxiv.org/abs/2212.11984) | [![link](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/discoscene/) | [![GitHub](https://img.shields.io/github/stars/snap-research/discoscene)](https://github.com/snap-research/discoscene) |
 | 2023 | ICCV | InfiniCity | [InfiniCity: Infinite-Scale City Synthesis](https://arxiv.org/abs/2301.09637) | [![link](https://img.shields.io/badge/Website-9cf)](https://hubert0527.github.io/infinicity/) |  |
@@ -227,6 +228,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | Prometheus | [Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation](https://arxiv.org/abs/2412.21117) | [![link](https://img.shields.io/badge/Website-9cf)](https://freemty.github.io/project-prometheus/) | [![GitHub](https://img.shields.io/github/stars/XDimLab/Prometheus)](https://github.com/XDimLab/Prometheus) |
 | 2025 | ICLR | DynamicCity | [DynamicCity: Large-Scale Occupancy Generation from Dynamic Scenes](https://arxiv.org/abs/2410.18084) | [![link](https://img.shields.io/badge/Website-9cf)](https://dynamic-city.github.io/) | [![GitHub](https://img.shields.io/github/stars/3DTopia/DynamicCity)](https://github.com/3DTopia/DynamicCity) |
 | 2025 | arXiv | NuiScene | [NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes](https://arxiv.org/abs/2503.16375) | [![link](https://img.shields.io/badge/Website-9cf)](https://3dlg-hcvc.github.io/NuiScene/) | [![GitHub](https://img.shields.io/github/stars/3dlg-hcvc/NuiScene?style=social)](https://github.com/3dlg-hcvc/NuiScene) |
+| 2025 | CVMJ | LPA3D | [LPA3D: 3D Room-Level Scene Generation from In-the-Wild Images](https://arxiv.org/abs/2504.02337) | | |
 
 ## Image-based Generation
 
