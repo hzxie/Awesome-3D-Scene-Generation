@@ -158,6 +158,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | 3DV | Ctrl-Room | [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602) | [![link](https://img.shields.io/badge/Website-9cf)](https://fangchuan.github.io/ctrl-room.github.io/) | [![GitHub](https://img.shields.io/github/stars/fangchuan/Ctrl-Room)](https://github.com/fangchuan/Ctrl-Room) |
 | 2025 | CVPR | SceneFactor | [SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation](https://arxiv.org/abs/2412.01801) | [![link](https://img.shields.io/badge/Website-9cf)](https://alexeybokhovkin.github.io/scenefactor/) | [![GitHub](https://img.shields.io/github/stars/alexeybokhovkin/SceneFactor)](https://github.com/alexeybokhovkin/SceneFactor) |
 | 2025 | CVPR | CASAGPT | [CASAGPT: Cuboid Arrangement and Scene Assembly for Interior Design](https://arxiv.org/abs/2504.19478) |  | [![GitHub](https://img.shields.io/github/stars/CASAGPT/CASA-GPT?style=social)](https://github.com/CASAGPT/CASA-GPT) |
+| 2025 | arXiv | | [Steerable Scene Generation with Post Training and Inference-Time Search](https://arxiv.org/abs/2505.04831) | [![link](https://img.shields.io/badge/Website-9cf)](https://steerable-scene-generation.github.io/) | [![GitHub](https://img.shields.io/github/stars/nepfaff/steerable-scene-generation)](https://github.com/nepfaff/steerable-scene-generation) |
 
 ### Scene Graph
 
@@ -429,6 +430,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2021 | Indoor | Synthetic | 3D-FRONT | [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://arxiv.org/abs/2011.09127) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) |
 | 2021 | Indoor | Synthetic | 3D-Future | [3D-FUTURE: 3D Furniture shape with TextURE](https://arxiv.org/abs/2009.09633) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) |
 | 2023 | Indoor | Synthetic | SG-FRONT | [CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion](https://arxiv.org/abs/2305.16283) | [![link](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/commonscenes/dataset) |
+| 2025 | Indoor | Synthetic | | [Steerable Scene Generation with Post Training and Inference-Time Search](https://arxiv.org/abs/2505.04831) | [![link](https://img.shields.io/badge/Website-9cf)](https://steerable-scene-generation.github.io/) |
 
 ## Natural Datasets
 
@@ -512,6 +514,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | arXiv | EmbodiedCity | [EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment](https://arxiv.org/abs/2410.09604) | [![link](https://img.shields.io/badge/Website-9cf)](https://embodied-city.fiblab.net/) | [![GitHub](https://img.shields.io/github/stars/tsinghua-fib-lab/EmbodiedCity)](https://github.com/tsinghua-fib-lab/EmbodiedCity) |
 | 2024 | arXiv | InfiniteWorld | [InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction](https://arxiv.org/abs/2412.05789) |  | [![GitHub](https://img.shields.io/github/stars/pzhren/InfiniteWorld)](https://github.com/pzhren/InfiniteWorld) |
 | 2025 | ICLR | MetaUrban | [MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility](https://arxiv.org/abs/2407.08725) | [![link](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/metaurban/) | [![GitHub](https://img.shields.io/github/stars/metadriverse/metaurban)](https://github.com/metadriverse/metaurban) |
+| 2025 | arXiv | | [Steerable Scene Generation with Post Training and Inference-Time Search](https://arxiv.org/abs/2505.04831) | [![link](https://img.shields.io/badge/Website-9cf)](https://steerable-scene-generation.github.io/) | [![GitHub](https://img.shields.io/github/stars/nepfaff/steerable-scene-generation)](https://github.com/nepfaff/steerable-scene-generation) |
 
 ## Robotics
 
