@@ -125,6 +125,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | Cube | [Cube: A Roblox View of 3D Intelligence](https://arxiv.org/abs/2503.15475) |  | [![GitHub](https://img.shields.io/github/stars/Roblox/cube)](https://github.com/Roblox/cube) |
 | 2025 | arXiv | Scenethesis | [Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation](https://arxiv.org/abs/2505.02836) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/scenethesis/) |  |
 | 2025 | arXiv |  | [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) |  |  |
+| 2025 | arXiv | ReSpace | [ReSpace: Text-Driven 3D Scene Synthesis and Editing with Preference Alignment](https://arxiv.org/abs/2506.02459) | [![link](https://img.shields.io/badge/Website-9cf)](https://respace.mnbucher.com/) | [![GitHub](https://img.shields.io/github/stars/GradientSpaces/respace)](https://github.com/GradientSpaces/respace) |
 
 ## Neural-3D Generation
 
@@ -181,6 +182,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | ECCV | EchoScene | [EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion](https://arxiv.org/abs/2405.00915) | [![link](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/echoscene) | [![GitHub](https://img.shields.io/github/stars/ymxlzgy/echoscene)](https://github.com/ymxlzgy/echoscene) |
 | 2024 | ICLR | InstructScene | [InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior](https://arxiv.org/abs/2402.04717) | [![link](https://img.shields.io/badge/Website-9cf)](https://chenguolin.github.io/projects/InstructScene/) | [![GitHub](https://img.shields.io/github/stars/chenguolin/InstructScene)](https://github.com/chenguolin/InstructScene) |
 | 2025 | AAAI | MMGDreamer | [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/abs/2502.05874) | [![link](https://img.shields.io/badge/Website-9cf)](https://yangzhifeio.github.io/project/MMGDreamer/) | [![GitHub](https://img.shields.io/github/stars/yangzhifeio/MMGDreamer?style=social)](https://github.com/yangzhifeio/MMGDreamer) |
+| 2025 | CVPR | FreeScene | [FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts](https://arxiv.org/abs/2506.02781) | [![link](https://img.shields.io/badge/Website-9cf)](https://cangmushui.github.io/FreeScene-io/) | [![GitHub](https://img.shields.io/github/stars/cangmushui/FreeScene)](https://github.com/cangmushui/FreeScene) |
 | 2025 | arXiv |  | [Controllable 3D Outdoor Scene Generation via Scene Graphs](https://arxiv.org/abs/2503.07152) |  | [![GitHub](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene)](https://github.com/yuhengliu02/control-3d-scene) |
 | 2025 | arXiv | HiScene | [HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation](https://arxiv.org/abs/2504.13072) | [![link](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/hiscene/) |  |
 
@@ -403,6 +405,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | Matrix-Game | [Matrix-Game: Interactive World Foundation Model](https://github.com/SkyworkAI/Matrix-Game/raw/main/assets/report.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](https://matrix-game-homepage.github.io/) | [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game)](https://github.com/SkyworkAI/Matrix-Game) |
 | 2025 | arXiv | CoGen | [CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving](https://arxiv.org/abs/2503.22231) | [![link](https://img.shields.io/badge/Website-9cf)](https://xiaomi-research.github.io/cogen/) |  |
 | 2025 | arXiv | WonderPlay | [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151) | [![link](https://img.shields.io/badge/Website-9cf)](https://kyleleey.github.io/WonderPlay/) |  |
+| 2025 | arXiv | Voyager | [Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation](https://arxiv.org/abs/2506.04225) | [![link](https://img.shields.io/badge/Website-9cf)](https://voyager-world.github.io/) | [![GitHub](https://img.shields.io/github/stars/Voyager-World/Voyager)](https://github.com/Voyager-World/Voyager) |
+
 
 
 # Datasets
