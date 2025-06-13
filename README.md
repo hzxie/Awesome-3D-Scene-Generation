@@ -126,6 +126,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | Scenethesis | [Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation](https://arxiv.org/abs/2505.02836) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/scenethesis/) |  |
 | 2025 | arXiv |  | [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) |  |  |
 | 2025 | arXiv | ReSpace | [ReSpace: Text-Driven 3D Scene Synthesis and Editing with Preference Alignment](https://arxiv.org/abs/2506.02459) | [![link](https://img.shields.io/badge/Website-9cf)](https://respace.mnbucher.com/) | [![GitHub](https://img.shields.io/github/stars/GradientSpaces/respace)](https://github.com/GradientSpaces/respace) |
+| 2025 | arXiv | DirectLayout | [Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning](https://arxiv.org/abs/2506.05341) | [![link](https://img.shields.io/badge/Website-9cf)](https://directlayout.github.io/) | [![GitHub](https://img.shields.io/github/stars/rxjfighting/DirectLayout)](https://github.com/rxjfighting/DirectLayout) |
 
 ## Neural-3D Generation
 
@@ -405,6 +406,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | Matrix-Game | [Matrix-Game: Interactive World Foundation Model](https://github.com/SkyworkAI/Matrix-Game/raw/main/assets/report.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](https://matrix-game-homepage.github.io/) | [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game)](https://github.com/SkyworkAI/Matrix-Game) |
 | 2025 | arXiv | CoGen | [CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving](https://arxiv.org/abs/2503.22231) | [![link](https://img.shields.io/badge/Website-9cf)](https://xiaomi-research.github.io/cogen/) |  |
 | 2025 | arXiv | WonderPlay | [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151) | [![link](https://img.shields.io/badge/Website-9cf)](https://kyleleey.github.io/WonderPlay/) |  |
+| 2025 | arXiv | Dreamland | [Dreamland: Controllable World Creation with Simulator and Generative Models](https://arxiv.org/abs/2506.08006) | [![link](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/dreamland/) |  |
 | 2025 | arXiv | Voyager | [Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation](https://arxiv.org/abs/2506.04225) | [![link](https://img.shields.io/badge/Website-9cf)](https://voyager-world.github.io/) | [![GitHub](https://img.shields.io/github/stars/Voyager-World/Voyager)](https://github.com/Voyager-World/Voyager) |
 
 
