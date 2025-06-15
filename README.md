@@ -438,6 +438,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2021 | Indoor | Synthetic | 3D-FRONT | [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://arxiv.org/abs/2011.09127) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) |
 | 2021 | Indoor | Synthetic | 3D-Future | [3D-FUTURE: 3D Furniture shape with TextURE](https://arxiv.org/abs/2009.09633) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) |
 | 2023 | Indoor | Synthetic | SG-FRONT | [CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion](https://arxiv.org/abs/2305.16283) | [![link](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/commonscenes/dataset) |
+| 2025 | Indoor | Synthetic | SE(3) Scene | [Steerable Scene Generation with Post Training and Inference-Time Search](https://arxiv.org/abs/2505.04831) | [![link](https://img.shields.io/badge/Website-9cf)](https://steerable-scene-generation.github.io/) |
 
 ## Natural Datasets
 
