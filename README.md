@@ -88,7 +88,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2023 | TOG |  | [Forming Terrains by Glacial Erosion](https://doi.org/10.1145/3592422) | [![link](https://img.shields.io/badge/Website-9cf)](https://www-sop.inria.fr/reves/Basilic/2023/CJPBCBGGG23/) |  |
 | 2023 | TOG |  | [Large-scale terrain authoring through interactive erosion simulation](https://doi.org/10.1145/3592787) | [![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&)](https://youtu.be/gCP7jzcPLyQ) | [![GitHub](https://img.shields.io/github/stars/H-Schott/StreamPowerErosion)](https://github.com/H-Schott/StreamPowerErosion) |
 | 2023 | TOG |  | [Authoring and Simulating Meandering Rivers](https://doi.org/10.1145/3618350) | [![link](https://img.shields.io/badge/Website-9cf)](https://aparis69.github.io/public_html/projects/paris2023_Meanders.html) | [![GitHub](https://img.shields.io/github/stars/aparis69/Meandering-rivers)](https://aparis69.github.io/public_html/projects/paris2023_Meanders.html) |
-| 2024 | arXiv | Proc-GS | [Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians](https://arxiv.org/abs/2412.07660) | [![link](https://img.shields.io/badge/Website-9cf)](https://city-super.github.io/procgs/) | [![GitHub](https://img.shields.io/github/stars/city-super/ProcGS?style=social)](https://github.com/city-super/ProcGS/) |
+| 2025 | CVPRW | Proc-GS | [Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians](https://arxiv.org/abs/2412.07660) | [![link](https://img.shields.io/badge/Website-9cf)](https://city-super.github.io/procgs/) | [![GitHub](https://img.shields.io/github/stars/city-super/ProcGS?style=social)](https://github.com/city-super/ProcGS/) |
 
 ### Optimization-based Generation
 
@@ -288,6 +288,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICLR | CubeDiff | [CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation](https://arxiv.org/abs/2501.17162) | [![link](https://img.shields.io/badge/Website-9cf)](https://cubediff.github.io/) |  |
 | 2025 | SIGGRAPH | LayerPano3D | [LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252) | [![link](https://img.shields.io/badge/Website-9cf)](https://ys-imtech.github.io/projects/LayerPano3D/) | [![GitHub](https://img.shields.io/github/stars/3DTopia/LayerPano3D)](https://github.com/3DTopia/LayerPano3D) |
 | 2025 | arXiv |  | [A Recipe for Generating 3D Worlds From a Single Image](https://arxiv.org/abs/2503.16611) | [![link](https://img.shields.io/badge/Website-9cf)](https://katjaschwarz.github.io/worlds/) |  |
+| 2025 | arXiv | EmbodiedGen | [EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence](https://arxiv.org/abs/2506.10600) | [![link](https://img.shields.io/badge/Website-9cf)](https://horizonrobotics.github.io/robot_lab/embodied_gen/index.html) | [![GitHub](https://img.shields.io/github/stars/HorizonRobotics/EmbodiedGen)](https://github.com/HorizonRobotics/EmbodiedGen) |
+| 2025 | arXiv | ImmerseGen | [ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies](https://arxiv.org/abs/2506.14315) | [![link](https://img.shields.io/badge/Website-9cf)](https://immersegen.github.io/) |  |
 
 ### Iterative Generation
 
