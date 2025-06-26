@@ -422,6 +422,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | WonderPlay | [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151) | [![link](https://img.shields.io/badge/Website-9cf)](https://kyleleey.github.io/WonderPlay/) |  |
 | 2025 | arXiv | Dreamland | [Dreamland: Controllable World Creation with Simulator and Generative Models](https://arxiv.org/abs/2506.08006) | [![link](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/dreamland/) |  |
 | 2025 | arXiv | Voyager | [Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation](https://arxiv.org/abs/2506.04225) | [![link](https://img.shields.io/badge/Website-9cf)](https://voyager-world.github.io/) | [![GitHub](https://img.shields.io/github/stars/Voyager-World/Voyager)](https://github.com/Voyager-World/Voyager) |
+| 2025 | arXiv | Matrix-Game | [Matrix-Game: Interactive World Foundation Model](https://arxiv.org/abs/2506.18701) | [![link](https://img.shields.io/badge/Website-9cf)](https://matrix-game-homepage.github.io/) | [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game)](https://github.com/SkyworkAI/Matrix-Game) |
+| 2025 | arXiv | Hunyuan-GameCraft | [Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition](https://arxiv.org/abs/2506.17201) | [![link](https://img.shields.io/badge/Website-9cf)](https://hunyuan-gamecraft.github.io/) |  |
 
 
 
