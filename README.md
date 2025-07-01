@@ -224,6 +224,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICLR | Layout-your-3D | [Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint](https://arxiv.org/abs/2410.15391) | [![link](https://img.shields.io/badge/Website-9cf)](https://colezwhy.github.io/layoutyour3d/) | [![GitHub](https://img.shields.io/github/stars/Colezwhy/Layout-Your-3D)](https://github.com/Colezwhy/Layout-Your-3D) |
 | 2025 | arXiv | Layout2Scene | [Layout2Scene: 3D Semantic Layout Guided Scene Generation via Geometry and Appearance Diffusion Priors](https://arxiv.org/abs/2501.02519) |  |  |
 | 2025 | arXiv | CityDreamer4D | [CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities](https://arxiv.org/abs/2501.08983) | [![link](https://img.shields.io/badge/Website-9cf)](https://haozhexie.com/project/city-dreamer-4d) | [![GitHub](https://img.shields.io/github/stars/hzxie/CityDreamer4D)](https://github.com/hzxie/CityDreamer4D) |
+| 2025 | arXiv | PrITTI | [PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Scenes](https://arxiv.org/abs/2506.19117) | [![link](https://img.shields.io/badge/Website-9cf)](https://raniatze.github.io/pritti/) | [![GitHub](https://img.shields.io/github/stars/avg-dev/PrITTI)](https://github.com/avg-dev/PrITTI) |
 
 ### Implicit Layout
 
@@ -353,6 +354,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | arXiv | PaintScene4D | [PaintScene4D: Consistent 4D Scene Generation from Text Prompts](https://arxiv.org/abs/2412.04471) | [![link](https://img.shields.io/badge/Website-9cf)](https://paintscene4d.github.io/) | [![GitHub](https://img.shields.io/github/stars/paintscene4d/paintscene4d.github.io)](https://github.com/paintscene4d/paintscene4d.github.io) |
 | 2025 | ICLR | GenXD | [GenXD: Generating Any 3D and 4D Scenes](https://arxiv.org/abs/2411.02319) | [![link](https://img.shields.io/badge/Website-9cf)](https://gen-x-d.github.io/) | [![GitHub](https://img.shields.io/github/stars/HeliosZhao/GenXD)](https://github.com/HeliosZhao/GenXD) |
 | 2025 | CVPR | StarGen | [StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation](https://arxiv.org/abs/2501.05763) | [![link](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/StarGen/) | [![GitHub](https://img.shields.io/github/stars/zju3dv/StarGen)](https://github.com/zju3dv/StarGen) |
+| 2025 | TMM | DreamJourney | [DreamJourney: Perpetual View Generation with Video Diffusion Models](https://arxiv.org/abs/2506.17705) | [![link](https://img.shields.io/badge/Website-9cf)](https://dream-journey.vercel.app/) | [![GitHub](https://img.shields.io/github/stars/HiDream-ai/DreamJourney)](https://github.com/HiDream-ai/DreamJourney) |
 | 2025 | arXiv | Free4D | [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://arxiv.org/abs/2503.20785) | [![link](https://img.shields.io/badge/Website-9cf)](https://free4d.github.io/) | [![GitHub](https://img.shields.io/github/stars/TQTQliu/Free4D)](https://github.com/TQTQliu/Free4D) |
 
 ### One-stage Generation
@@ -421,9 +423,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | CoGen | [CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving](https://arxiv.org/abs/2503.22231) | [![link](https://img.shields.io/badge/Website-9cf)](https://xiaomi-research.github.io/cogen/) |  |
 | 2025 | arXiv | WonderPlay | [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151) | [![link](https://img.shields.io/badge/Website-9cf)](https://kyleleey.github.io/WonderPlay/) |  |
 | 2025 | arXiv | Dreamland | [Dreamland: Controllable World Creation with Simulator and Generative Models](https://arxiv.org/abs/2506.08006) | [![link](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/dreamland/) |  |
-| 2025 | arXiv | Voyager | [Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation](https://arxiv.org/abs/2506.04225) | [![link](https://img.shields.io/badge/Website-9cf)](https://voyager-world.github.io/) | [![GitHub](https://img.shields.io/github/stars/Voyager-World/Voyager)](https://github.com/Voyager-World/Voyager) |
+| 2025 | arXiv | Voyager | [Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation](https://arxiv.org/abs/2506.04225) |  |  |
 | 2025 | arXiv | Matrix-Game | [Matrix-Game: Interactive World Foundation Model](https://arxiv.org/abs/2506.18701) | [![link](https://img.shields.io/badge/Website-9cf)](https://matrix-game-homepage.github.io/) | [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game)](https://github.com/SkyworkAI/Matrix-Game) |
 | 2025 | arXiv | Hunyuan-GameCraft | [Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition](https://arxiv.org/abs/2506.17201) | [![link](https://img.shields.io/badge/Website-9cf)](https://hunyuan-gamecraft.github.io/) |  |
+| 2025 | arXiv | CoCo4D | [CoCo4D: Comprehensive and Complex 4D Scene Generation](https://arxiv.org/abs/2506.19798) | [![link](https://img.shields.io/badge/Website-9cf)](https://colezwhy.github.io/coco4d/) | [![GitHub](https://img.shields.io/github/stars/Colezwhy/CoCo4D-Gen)](https://github.com/Colezwhy/CoCo4D-Gen) |
 
 
 
