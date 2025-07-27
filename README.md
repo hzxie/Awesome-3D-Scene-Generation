@@ -225,6 +225,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | Layout2Scene | [Layout2Scene: 3D Semantic Layout Guided Scene Generation via Geometry and Appearance Diffusion Priors](https://arxiv.org/abs/2501.02519) |  |  |
 | 2025 | arXiv | CityDreamer4D | [CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities](https://arxiv.org/abs/2501.08983) | [![link](https://img.shields.io/badge/Website-9cf)](https://haozhexie.com/project/city-dreamer-4d) | [![GitHub](https://img.shields.io/github/stars/hzxie/CityDreamer4D)](https://github.com/hzxie/CityDreamer4D) |
 | 2025 | arXiv | PrITTI | [PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Scenes](https://arxiv.org/abs/2506.19117) | [![link](https://img.shields.io/badge/Website-9cf)](https://raniatze.github.io/pritti/) | [![GitHub](https://img.shields.io/github/stars/avg-dev/PrITTI)](https://github.com/avg-dev/PrITTI) |
+| 2025 | ICCV | Sat2City | [Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion](https://arxiv.org/abs/2507.04403) | [![link](https://img.shields.io/badge/Website-9cf)](https://ai4city-hkust.github.io/Sat2City/) | [![GitHub](https://img.shields.io/github/stars/thua919/Sat2City-release)](https://github.com/thua919/Sat2City-release) |
 
 ### Implicit Layout
 
