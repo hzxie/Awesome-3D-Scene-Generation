@@ -139,6 +139,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv |  | [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) |  |  |
 | 2025 | arXiv | ReSpace | [ReSpace: Text-Driven 3D Scene Synthesis and Editing with Preference Alignment](https://arxiv.org/abs/2506.02459) | [![link](https://img.shields.io/badge/Website-9cf)](https://respace.mnbucher.com/) | [![GitHub](https://img.shields.io/github/stars/GradientSpaces/respace)](https://github.com/GradientSpaces/respace) |
 | 2025 | arXiv | DirectLayout | [Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning](https://arxiv.org/abs/2506.05341) | [![link](https://img.shields.io/badge/Website-9cf)](https://directlayout.github.io/) | [![GitHub](https://img.shields.io/github/stars/rxjfighting/DirectLayout)](https://github.com/rxjfighting/DirectLayout) |
+| 2025 | ACL Findings | UnrealLLM | [UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation](https://aclanthology.org/2025.findings-acl.994/) |  |  |
 
 ## Neural-3D Generation
 
@@ -292,6 +293,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv |  | [A Recipe for Generating 3D Worlds From a Single Image](https://arxiv.org/abs/2503.16611) | [![link](https://img.shields.io/badge/Website-9cf)](https://katjaschwarz.github.io/worlds/) |  |
 | 2025 | arXiv | EmbodiedGen | [EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence](https://arxiv.org/abs/2506.10600) | [![link](https://img.shields.io/badge/Website-9cf)](https://horizonrobotics.github.io/robot_lab/embodied_gen/index.html) | [![GitHub](https://img.shields.io/github/stars/HorizonRobotics/EmbodiedGen)](https://github.com/HorizonRobotics/EmbodiedGen) |
 | 2025 | arXiv | ImmerseGen | [ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies](https://arxiv.org/abs/2506.14315) | [![link](https://img.shields.io/badge/Website-9cf)](https://immersegen.github.io/) |  |
+| 2025 | arXiv | HunyuanWorld 1.0 | [HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels](https://arxiv.org/abs/2507.21809) | [![link](https://img.shields.io/badge/Website-9cf)](https://3d-models.hunyuan.tencent.com/world/) | [![GitHub](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-1.0)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) |
 
 ### Iterative Generation
 
