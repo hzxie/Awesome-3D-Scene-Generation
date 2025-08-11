@@ -342,6 +342,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | WonderTurbo | [WonderTurbo: Generating Interactive 3D World in 0.72 Seconds](https://arxiv.org/abs/2504.02261) | [![link](https://img.shields.io/badge/Website-9cf)](https://wonderturbo.github.io/) | [![GitHub](https://img.shields.io/github/stars/GigaAI-research/WonderTurbo)](https://github.com/GigaAI-research/WonderTurbo) |
 | 2025 | arXiv | Bolt3D | [Bolt3D: Generating 3D Scenes in Seconds](https://arxiv.org/abs/2503.14445) | [![link](https://img.shields.io/badge/Website-9cf)](https://szymanowiczs.github.io/bolt3d) |  |
 | 2025 | arXiv | SynCity | [SynCity: Training-Free Generation of 3D Worlds](https://arxiv.org/abs/2503.16420) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.paulengstler.com/syncity/) | [![GitHub](https://img.shields.io/github/stars/paulengstler/syncity)](https://github.com/paulengstler/syncity) |
+| 2025 | ICCV | ScenePainter | [ScenePainter: Semantically Consistent Perpetual 3D Scene Generation with Concept Relation Alignment](https://arxiv.org/abs/2507.19058) | [![link](https://img.shields.io/badge/Website-9cf)](https://xiac20.github.io/ScenePainter/) | [![GitHub](https://img.shields.io/github/stars/xiac20/ScenePainter)](https://github.com/xiac20/ScenePainter) |
 
 
 ## Video-based Generation
@@ -358,7 +359,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICLR | GenXD | [GenXD: Generating Any 3D and 4D Scenes](https://arxiv.org/abs/2411.02319) | [![link](https://img.shields.io/badge/Website-9cf)](https://gen-x-d.github.io/) | [![GitHub](https://img.shields.io/github/stars/HeliosZhao/GenXD)](https://github.com/HeliosZhao/GenXD) |
 | 2025 | CVPR | StarGen | [StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation](https://arxiv.org/abs/2501.05763) | [![link](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/StarGen/) | [![GitHub](https://img.shields.io/github/stars/zju3dv/StarGen)](https://github.com/zju3dv/StarGen) |
 | 2025 | TMM | DreamJourney | [DreamJourney: Perpetual View Generation with Video Diffusion Models](https://arxiv.org/abs/2506.17705) | [![link](https://img.shields.io/badge/Website-9cf)](https://dream-journey.vercel.app/) | [![GitHub](https://img.shields.io/github/stars/HiDream-ai/DreamJourney)](https://github.com/HiDream-ai/DreamJourney) |
-| 2025 | arXiv | Free4D | [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://arxiv.org/abs/2503.20785) | [![link](https://img.shields.io/badge/Website-9cf)](https://free4d.github.io/) | [![GitHub](https://img.shields.io/github/stars/TQTQliu/Free4D)](https://github.com/TQTQliu/Free4D) |
+| 2025 | ICCV | Free4D | [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://arxiv.org/abs/2503.20785) | [![link](https://img.shields.io/badge/Website-9cf)](https://free4d.github.io/) | [![GitHub](https://img.shields.io/github/stars/TQTQliu/Free4D)](https://github.com/TQTQliu/Free4D) |
 
 ### One-stage Generation
 
@@ -431,6 +432,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | Hunyuan-GameCraft | [Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition](https://arxiv.org/abs/2506.17201) | [![link](https://img.shields.io/badge/Website-9cf)](https://hunyuan-gamecraft.github.io/) |  |
 | 2025 | arXiv | CoCo4D | [CoCo4D: Comprehensive and Complex 4D Scene Generation](https://arxiv.org/abs/2506.19798) | [![link](https://img.shields.io/badge/Website-9cf)](https://colezwhy.github.io/coco4d/) | [![GitHub](https://img.shields.io/github/stars/Colezwhy/CoCo4D-Gen)](https://github.com/Colezwhy/CoCo4D-Gen) |
 | 2025 | arXiv | WonderFree | [WonderFree: Enhancing Novel View Quality and Cross-View Consistency for 3D Scene Exploration](https://arxiv.org/abs/2506.20590) | [![link](https://img.shields.io/badge/Website-9cf)](https://wonder-free.github.io/) | [![GitHub](https://img.shields.io/github/stars/GigaAI-research/WonderFree)](https://github.com/GigaAI-research/WonderFree) |
+| 2025 | arXiv | 4DVD | [4DVD: Cascaded Dense-view Video Diffusion Model for High-quality 4D Content Generation](https://arxiv.org/abs/2508.04467) | [![link](https://img.shields.io/badge/Website-9cf)](https://4dvd.github.io/) |  |
+| 2025 | arXiv | IDCNet | [IDCNet: Guided Video Diffusion for Metric-Consistent RGBD Scene Generation with Precise Camera Control](https://arxiv.org/abs/2508.04147) | [![link](https://img.shields.io/badge/Website-9cf)](https://idcnet-scene.github.io/) |  |
 | 2025 | ICCV | DynamicVoyager | [Voyaging into Unbounded Dynamic Scenes from a Single View](https://arxiv.org/abs/2507.04183) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianfr.github.io/project/DynamicVoyager/) | [![GitHub](https://img.shields.io/github/stars/tianfr/DynamicVoyager)](https://github.com/tianfr/DynamicVoyager) |
 
 
