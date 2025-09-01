@@ -528,7 +528,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | VR | DreamSpace | [DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation](https://arxiv.org/abs/2310.13119) | [![link](https://img.shields.io/badge/Website-9cf)](https://ybbbbt.com/publication/dreamspace/) | [![GitHub](https://img.shields.io/github/stars/ybbbbt/dreamspace)](https://github.com/ybbbbt/dreamspace) |
 | 2025 | 3DV | Ctrl-Room | [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602) | [![link](https://img.shields.io/badge/Website-9cf)](https://fangchuan.github.io/ctrl-room.github.io/) | [![GitHub](https://img.shields.io/github/stars/fangchuan/Ctrl-Room)](https://github.com/fangchuan/Ctrl-Room) |
 | 2025 | CVPR | RoomPainter | [RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing](https://arxiv.org/abs/2412.16778) |  |  |
-| 2025 | SIGGRAPH | ReStyle3D | [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.10377) | [![link](https://img.shields.io/badge/Website-9cf)]([https://fangchuan.github.io/ctrl-room.github.io/](https://restyle3d.github.io/)) | ![GitHub](https://img.shields.io/github/stars/GradientSpaces/ReStyle3D) |
+| 2025 | SIGGRAPH | ReStyle3D | [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.10377) | [![link](https://img.shields.io/badge/Website-9cf)](https://restyle3d.github.io/) | [![GitHub](https://img.shields.io/github/stars/GradientSpaces/ReStyle3D)](https://github.com/GradientSpaces/ReStyle3D) |
 
 ## Human-Scene Interaction
 
