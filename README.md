@@ -144,6 +144,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | HOLODECK 2.0 | [HOLODECK 2.0: Vision-Language-Guided 3D World Generation with Editing](https://arxiv.org/abs/2508.05899) |  |  |
 | 2025 | arXiv | LatticeWorld | [LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation](https://arxiv.org/abs/2509.05263) | [![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&)](https://youtu.be/8VWZXpERR18) |  |
 | 2025 | ACL Findings | UnrealLLM | [UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation](https://aclanthology.org/2025.findings-acl.994/) |  |  |
+| 2025 | arXiv |  | [3D Software Synthesis Guided by Constraint-Expressive Intermediate Representation](https://arxiv.org/abs/2507.18625) | [![link](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/3d-software-synthesis) |  |
 
 ## Neural-3D Generation
 
