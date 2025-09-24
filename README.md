@@ -133,6 +133,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR |  | [Global-Local Tree Search in VLMs for 3D Indoor Scene Generation](https://arxiv.org/abs/2503.18476) |  | [![GitHub](https://img.shields.io/github/stars/dw-dengwei/TreeSearchGen)](https://github.com/dw-dengwei/TreeSearchGen) |
 | 2025 | CVPR | LayoutVLM | [LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models](https://arxiv.org/abs/2412.02193) | [![link](https://img.shields.io/badge/Website-9cf)](https://ai.stanford.edu/~sunfanyun/layoutvlm/) | [![GitHub](https://img.shields.io/github/stars/sunfanyunn/LayoutVLM)](https://github.com/sunfanyunn/LayoutVLM) |
 | 2025 | CVPR | The Scene Language | [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://arxiv.org/abs/2410.16770) | [![link](https://img.shields.io/badge/Website-9cf)](https://ai.stanford.edu/~yzzhang/projects/scene-language/) | [![GitHub](https://img.shields.io/github/stars/zzyunzhi/scene-language)](https://github.com/zzyunzhi/scene-language) |
+| 2025 | ACL Findings | UnrealLLM | [UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation](https://aclanthology.org/2025.findings-acl.994/) |  |  |
 | 2025 | arXiv | WorldCraft | [WorldCraft: Photo-Realistic 3D World Creation and Customization via LLM Agents](https://arxiv.org/abs/2502.15601) |  |  |
 | 2025 | arXiv | Cube | [Cube: A Roblox View of 3D Intelligence](https://arxiv.org/abs/2503.15475) |  | [![GitHub](https://img.shields.io/github/stars/Roblox/cube)](https://github.com/Roblox/cube) |
 | 2025 | arXiv | Scenethesis | [Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation](https://arxiv.org/abs/2505.02836) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/scenethesis/) |  |
@@ -143,7 +144,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | HLG | [HLG: Comprehensive 3D Room Construction via Hierarchical Layout Generation](https://arxiv.org/abs/2508.17832) |  |  |
 | 2025 | arXiv | HOLODECK 2.0 | [HOLODECK 2.0: Vision-Language-Guided 3D World Generation with Editing](https://arxiv.org/abs/2508.05899) |  |  |
 | 2025 | arXiv | LatticeWorld | [LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation](https://arxiv.org/abs/2509.05263) | [![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&)](https://youtu.be/8VWZXpERR18) |  |
-| 2025 | ACL Findings | UnrealLLM | [UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation](https://aclanthology.org/2025.findings-acl.994/) |  |  |
+| 2025 | arXiv | CausalStruct | [Causal Reasoning Elicits Controllable 3D Scene Generation](https://arxiv.org/abs/2509.05263) | [![link](https://img.shields.io/badge/Website-9cf)](https://causalstruct.github.io/) | [![GitHub](https://img.shields.io/github/stars/gokucs/causalstruct)](https://github.com/gokucs/causalstruct) |
+
 
 ## Neural-3D Generation
 
@@ -234,6 +236,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICCV | Sat2City | [Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion](https://arxiv.org/abs/2507.04403) | [![link](https://img.shields.io/badge/Website-9cf)](https://ai4city-hkust.github.io/Sat2City/) | [![GitHub](https://img.shields.io/github/stars/thua919/Sat2City-release)](https://github.com/thua919/Sat2City-release) |
 | 2025 | arXiv | X-Scene | [X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability](https://arxiv.org/abs/2506.13558) | [![link](https://img.shields.io/badge/Website-9cf)](https://x-scene.github.io/) | [![GitHub](https://img.shields.io/github/stars/yuyang-cloud/X-Scene)](https://github.com/yuyang-cloud/X-Scene) |
 | 2025 | arXiv | EarthCrafter | [EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion](https://arxiv.org/abs/2507.16535) | [![link](https://img.shields.io/badge/Website-9cf)](https://whiteinblue.github.io/earthcrafter/) | [![GitHub](https://img.shields.io/github/stars/whiteinblue/EarthCrafter)](https://github.com/whiteinblue/EarthCrafter) |
+| 2025 | arXiv | SPATIALGEN | [SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981) | [![link](https://img.shields.io/badge/Website-9cf)](https://manycore-research.github.io/SpatialGen/) | [![GitHub](https://img.shields.io/github/stars/manycore-research/SpatialGen)](https://github.com/manycore-research/SpatialGen) |
 
 ### Implicit Layout
 
@@ -450,7 +453,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICCV | MagicDrive-V2 | [MagicDrive-V2: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control](https://arxiv.org/abs/2411.13807v3) | [![link](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrivedit/) | [![GitHub](https://img.shields.io/github/stars/flymin/MagicDrive-V2)](https://github.com/flymin/MagicDrive-V2) |
 | 2025 | ICCV | DynamicVoyager | [Voyaging into Unbounded Dynamic Scenes from a Single View](https://arxiv.org/abs/2507.04183) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianfr.github.io/project/DynamicVoyager/) | [![GitHub](https://img.shields.io/github/stars/tianfr/DynamicVoyager)](https://github.com/tianfr/DynamicVoyager) |
 | 2025 | ICCV | InfiniCube | [InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models](https://arxiv.org/abs/2412.03934) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/infinicube/) | [![GitHub](https://img.shields.io/github/stars/nv-tlabs/InfiniCube)](https://github.com/nv-tlabs/InfiniCube) |
-
+| 2025 | ICCV | VMem | [VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory](https://arxiv.org/abs/2506.18903) | [![link](https://img.shields.io/badge/Website-9cf)](https://v-mem.github.io/) | [![GitHub](https://img.shields.io/github/stars/runjiali-rl/vmem)](https://github.com/runjiali-rl/vmem) |
+| 2025 | SIGGRAPH Asia | VideoFrom3D | [VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models](https://arxiv.org/abs/2509.17985) | [![link](https://img.shields.io/badge/Website-9cf)](https://kimgeonung.github.io/VideoFrom3D/) | [![GitHub](https://img.shields.io/github/stars/KIMGEONUNG/VideoFrom3D)](https://github.com/KIMGEONUNG/VideoFrom3D) |
 
 
 # Datasets
@@ -481,7 +485,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2021 | Indoor | Synthetic | 3D-Future | [3D-FUTURE: 3D Furniture shape with TextURE](https://arxiv.org/abs/2009.09633) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) |
 | 2023 | Indoor | Synthetic | SG-FRONT | [CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion](https://arxiv.org/abs/2305.16283) | [![link](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/commonscenes/dataset) |
 | 2025 | Indoor | Synthetic | SE(3) Scene | [Steerable Scene Generation with Post Training and Inference-Time Search](https://arxiv.org/abs/2505.04831) | [![link](https://img.shields.io/badge/Website-9cf)](https://steerable-scene-generation.github.io/) |
+| 2025 | Indoor | Synthetic | SYNBUILD-3D | [SYNBUILD-3D: A large, multi-modal, and semantically rich synthetic dataset of 3D building models at Level of Detail 4](https://arxiv.org/abs/2508.21169) | [![link](https://img.shields.io/badge/Website-9cf)](https://github.com/kdmayer/SYNBUILD-3D) |
 | 2025 | Indoor | Synthetic | InternScenes | [InternScenes: A Large-scale Simulatable Indoor Scene Dataset with Realistic Layouts](https://arxiv.org/abs/2509.10813) | [![link](https://img.shields.io/badge/Website-9cf)](https://marjordcpz.github.io/InternScenes.github.io//) |
+| 2025 | Indoor | Synthetic | SPATIALGEN | [SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981) | [![link](https://img.shields.io/badge/Website-9cf)](https://manycore-research.github.io/SpatialGen/) |
 
 ## Natural Datasets
 
