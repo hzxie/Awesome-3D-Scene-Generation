@@ -149,6 +149,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | 3D-Generalist | [3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds](https://arxiv.org/abs/2507.06484) | [![link](https://img.shields.io/badge/Website-9cf)](https://ai.stanford.edu/~sunfanyun/3d-generalist/) | [![GitHub](https://img.shields.io/github/stars/sunfanyunn/3D-Generalist)](https://github.com/sunfanyunn/3D-Generalist) |
 | 2025 | NeurIPS | SceneWeaver | [SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent](https://arxiv.org/abs/2509.20414) | [![link](https://img.shields.io/badge/Website-9cf)](https://scene-weaver.github.io/) | [![GitHub](https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver)](https://github.com/Scene-Weaver/SceneWeaver) |
 | 2025 | NeurIPS | MesaTask | [MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning](https://arxiv.org/abs/2509.22281) | [![link](https://img.shields.io/badge/Website-9cf)](https://mesatask.github.io/) | [![GitHub](https://img.shields.io/github/stars/InternRobotics/MesaTask)](https://github.com/InternRobotics/MesaTask) |
+| 2025 | arXiv | DisCo-Layout | [DisCo-Layout: Disentangling and Coordinating Semantic and Physical Refinement in a Multi-Agent Framework for 3D Indoor Layout Synthesis](https://arxiv.org/abs/2510.02178) | [![link](https://img.shields.io/badge/Website-9cf)](https://jialin75.github.io/DisCo-Layout/) |  |
+| 2025 | arXiv | Reason-3D | [Text-to-Scene with Large Reasoning Models](https://arxiv.org/abs/2509.26091) | [![link](https://img.shields.io/badge/Website-9cf)](https://lucala.github.io/reason-3d-demo/) |  |
 
 
 ## Neural-3D Generation
@@ -184,6 +186,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | SceneFactor | [SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation](https://arxiv.org/abs/2412.01801) | [![link](https://img.shields.io/badge/Website-9cf)](https://alexeybokhovkin.github.io/scenefactor/) | [![GitHub](https://img.shields.io/github/stars/alexeybokhovkin/SceneFactor)](https://github.com/alexeybokhovkin/SceneFactor) |
 | 2025 | CVPR | CASAGPT | [CASAGPT: Cuboid Arrangement and Scene Assembly for Interior Design](https://arxiv.org/abs/2504.19478) |  | [![GitHub](https://img.shields.io/github/stars/CASAGPT/CASA-GPT?style=social)](https://github.com/CASAGPT/CASA-GPT) |
 | 2025 | CoRL |  | [Steerable Scene Generation with Post Training and Inference-Time Search](https://arxiv.org/abs/2505.04831) | [![link](https://img.shields.io/badge/Website-9cf)](https://steerable-scene-generation.github.io/) | [![GitHub](https://img.shields.io/github/stars/nepfaff/steerable-scene-generation)](https://github.com/nepfaff/steerable-scene-generation) |
+| 2025 | NeurIPS | FactoredScenes | [From Programs to Poses: Factored Real-World Scene Generation via Learned Program Libraries](https://arxiv.org/abs/2510.10292) | [![link](https://img.shields.io/badge/Website-9cf)](https://web.stanford.edu/~joycj/projects/factoredscenes_neurips_2025.html) | [![GitHub](https://img.shields.io/github/stars/joyhsu0504/factored_scenes)](https://github.com/joyhsu0504/factored_scenes) |
 
 ### Scene Graph
 
@@ -209,6 +212,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | FreeScene | [FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts](https://arxiv.org/abs/2506.02781) | [![link](https://img.shields.io/badge/Website-9cf)](https://cangmushui.github.io/FreeScene-io/) | [![GitHub](https://img.shields.io/github/stars/cangmushui/FreeScene)](https://github.com/cangmushui/FreeScene) |
 | 2025 | ICCV |  | [Controllable 3D Outdoor Scene Generation via Scene Graphs](https://arxiv.org/abs/2503.07152) |  | [![GitHub](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene)](https://github.com/yuhengliu02/control-3d-scene) |
 | 2025 | arXiv | HiScene | [HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation](https://arxiv.org/abs/2504.13072) | [![link](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/hiscene/) |  |
+| 2025 | arXiv | Imaginarium | [Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation](https://arxiv.org/abs/2510.15564) |  |  |
 
 
 ### Semantic Layout
@@ -266,6 +270,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | VideoRFSplat | [VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling](https://arxiv.org/abs/2503.15855) | [![link](https://img.shields.io/badge/Website-9cf)](https://gohyojun15.github.io/VideoRFSplat/) | [![GitHub](https://img.shields.io/github/stars/gohyojun15/VideoRFSplat)](https://github.com/gohyojun15/VideoRFSplat) |
 | 2025 | arXiv | LSD-3D | [LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding](https://arxiv.org/abs/2508.19204) | [![link](https://img.shields.io/badge/Website-9cf)](https://princeton-computational-imaging.github.io/LSD-3D/) |  |
 | 2025 | arXiv | UniUGG | [UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding](https://arxiv.org/abs/2508.11952) | [![link](https://img.shields.io/badge/Website-9cf)](https://fudan-zvg.github.io/UniUGG/) | [![GitHub](https://img.shields.io/github/stars/fudan-zvg/UniUGG)](https://github.com/fudan-zvg/UniUGG) |
+| 2025 | arXiv | FlashWorld | [FlashWorld: High-quality 3D Scene Generation within Seconds](https://arxiv.org/abs/2510.13678) | [![link](https://img.shields.io/badge/Website-9cf)](https://imlixinyang.github.io/FlashWorld-Project-Page/) | [![GitHub](https://img.shields.io/github/stars/imlixinyang/FlashWorld)](https://github.com/imlixinyang/FlashWorld) |
+| 2025 | arXiv | WorldGrow | [WorldGrow: Generating Infinite 3D World](https://arxiv.org/abs/2510.21682) | [![link](https://img.shields.io/badge/Website-9cf)](https://world-grow.github.io/) | [![GitHub](https://img.shields.io/github/stars/world-grow/WorldGrow)](https://github.com/world-grow/WorldGrow) |
+| 2025 | arXiv | Terra | [Terra: Explorable Native 3D World Model with Point Latents](https://arxiv.org/abs/2510.14977) | [![link](https://img.shields.io/badge/Website-9cf)](https://huang-yh.github.io/terra/) | [![GitHub](https://img.shields.io/github/stars/huang-yh/Terra)](https://github.com/huang-yh/Terra) |
+
 
 ## Image-based Generation
 
@@ -464,6 +472,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | WorldForge | [WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance](https://arxiv.org/abs/2509.15130) | [![link](https://img.shields.io/badge/Website-9cf)](https://worldforge-agi.github.io/) | [![GitHub](https://img.shields.io/github/stars/Westlake-AGI-Lab/WorldForge)](https://github.com/Westlake-AGI-Lab/WorldForge) |
 | 2025 | arXiv |  | [From Virtual Games to Real-World Play](https://arxiv.org/abs/2506.18901) | [![link](https://img.shields.io/badge/Website-9cf)](https://wenqsun.github.io/RealPlay/) | [![GitHub](https://img.shields.io/github/stars/wenqsun/Real-Play)](https://github.com/wenqsun/Real-Play) |
 | 2025 | arXiv | FantasyWorld | [FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction](https://arxiv.org/abs/2509.21657) |  |  |
+| 2025 | arXiv | EvoWorld | [EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory](https://arxiv.org/abs/2510.01183) |  | [![GitHub](https://img.shields.io/github/stars/JiahaoPlus/EvoWorld)](https://github.com/JiahaoPlus/EvoWorld) |
 
 
 # Datasets
