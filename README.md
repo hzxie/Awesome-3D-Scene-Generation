@@ -14,6 +14,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 
 ### Table of Contents
 
+- [Overview](#overview)
+    - [Table of Contents](#table-of-contents)
 - [Methods: A Hierarchical Taxonomy](#methods-a-hierarchical-taxonomy)
   - [Procedural Generation](#procedural-generation)
     - [Rule-based Generation](#rule-based-generation)
@@ -31,9 +33,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
     - [Two-stage Generation](#two-stage-generation)
     - [One-stage Generation](#one-stage-generation)
 - [Datasets](#datasets)
-    - [Indoor Datasets](#indoor-datasets)
-    - [Natural Datasets](#natural-datasets)
-    - [Urban Datasets](#urban-datasets)
+  - [Indoor Datasets](#indoor-datasets)
+  - [Natural Datasets](#natural-datasets)
+  - [Urban Datasets](#urban-datasets)
 - [Applications and Tasks](#applications-and-tasks)
   - [3D Scene Editing](#3d-scene-editing)
   - [Human-Scene Interaction](#human-scene-interaction)
@@ -562,6 +564,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | 3DV | Ctrl-Room | [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602) | [![link](https://img.shields.io/badge/Website-9cf)](https://fangchuan.github.io/ctrl-room.github.io/) | [![GitHub](https://img.shields.io/github/stars/fangchuan/Ctrl-Room)](https://github.com/fangchuan/Ctrl-Room) |
 | 2025 | CVPR | RoomPainter | [RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing](https://arxiv.org/abs/2412.16778) |  |  |
 | 2025 | SIGGRAPH | ReStyle3D | [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.10377) | [![link](https://img.shields.io/badge/Website-9cf)](https://restyle3d.github.io/) | [![GitHub](https://img.shields.io/github/stars/GradientSpaces/ReStyle3D)](https://github.com/GradientSpaces/ReStyle3D) |
+| 2025 | NeurIPS | Styl3R | [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [![link](https://img.shields.io/badge/Website-9cf)](https://nickisdope.github.io/Styl3R/) | [![GitHub](https://img.shields.io/github/stars/WU-CVGL/Styl3R)](https://github.com/WU-CVGL/Styl3R) |
 
 ## Human-Scene Interaction
 
