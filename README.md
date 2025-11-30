@@ -91,6 +91,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2023 | TOG |  | [Large-scale terrain authoring through interactive erosion simulation](https://doi.org/10.1145/3592787) | [![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&)](https://youtu.be/gCP7jzcPLyQ) | [![GitHub](https://img.shields.io/github/stars/H-Schott/StreamPowerErosion)](https://github.com/H-Schott/StreamPowerErosion) |
 | 2023 | TOG |  | [Authoring and Simulating Meandering Rivers](https://doi.org/10.1145/3618350) | [![link](https://img.shields.io/badge/Website-9cf)](https://aparis69.github.io/public_html/projects/paris2023_Meanders.html) | [![GitHub](https://img.shields.io/github/stars/aparis69/Meandering-rivers)](https://aparis69.github.io/public_html/projects/paris2023_Meanders.html) |
 | 2025 | CVPRW | Proc-GS | [Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians](https://arxiv.org/abs/2412.07660) | [![link](https://img.shields.io/badge/Website-9cf)](https://city-super.github.io/procgs/) | [![GitHub](https://img.shields.io/github/stars/city-super/ProcGS?style=social)](https://github.com/city-super/ProcGS/) |
+| 2025 | CEUS | VoxCity | [VoxCity: A seamless framework for open geospatial data integration, grid-based semantic 3D city model generation, and urban environment simulation](https://doi.org/10.1016/j.compenvurbsys.2025.102366) | [![link](https://img.shields.io/badge/Website-9cf)](https://voxcity.readthedocs.io/en/latest/index.html) | [![GitHub](https://img.shields.io/github/stars/kunifujiwara/VoxCity)](https://github.com/kunifujiwara/VoxCity) |
 
 ### Optimization-based Generation
 
@@ -151,8 +152,15 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | 3D-Generalist | [3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds](https://arxiv.org/abs/2507.06484) | [![link](https://img.shields.io/badge/Website-9cf)](https://ai.stanford.edu/~sunfanyun/3d-generalist/) | [![GitHub](https://img.shields.io/github/stars/sunfanyunn/3D-Generalist)](https://github.com/sunfanyunn/3D-Generalist) |
 | 2025 | NeurIPS | SceneWeaver | [SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent](https://arxiv.org/abs/2509.20414) | [![link](https://img.shields.io/badge/Website-9cf)](https://scene-weaver.github.io/) | [![GitHub](https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver)](https://github.com/Scene-Weaver/SceneWeaver) |
 | 2025 | NeurIPS | MesaTask | [MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning](https://arxiv.org/abs/2509.22281) | [![link](https://img.shields.io/badge/Website-9cf)](https://mesatask.github.io/) | [![GitHub](https://img.shields.io/github/stars/InternRobotics/MesaTask)](https://github.com/InternRobotics/MesaTask) |
+| 2025 | Nature Computational Science |  | [Urban planning in the era of large language models](https://www.nature.com/articles/s43588-025-00846-1) |  |  |
 | 2025 | arXiv | DisCo-Layout | [DisCo-Layout: Disentangling and Coordinating Semantic and Physical Refinement in a Multi-Agent Framework for 3D Indoor Layout Synthesis](https://arxiv.org/abs/2510.02178) | [![link](https://img.shields.io/badge/Website-9cf)](https://jialin75.github.io/DisCo-Layout/) |  |
 | 2025 | arXiv | Reason-3D | [Text-to-Scene with Large Reasoning Models](https://arxiv.org/abs/2509.26091) | [![link](https://img.shields.io/badge/Website-9cf)](https://lucala.github.io/reason-3d-demo/) |  |
+| 2025 | arXiv | WorldGen | [WorldGen: From Text to Traversable and Interactive 3D Worlds](https://arxiv.org/pdf/2511.16825) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/) |  |
+| 2025 | arXiv | MarketGen | [MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments](https://arxiv.org/abs/2511.21161) | [![link](https://img.shields.io/badge/Website-9cf)](https://xuhu0529.github.io/MarketGen/) |  |
+| 2025 | arXiv | MajutsuCity | [MajutsuCity: Language-driven Aesthetic-adaptive City Generation with Controllable 3D Assets and Layouts](https://arxiv.org/abs/2511.20415) | [![link](https://img.shields.io/badge/Website-9cf)](https://longhz140516.github.io/MajutsuCity/) | [![GitHub](https://img.shields.io/github/stars/LongHZ140516/MajutsuCity)](https://github.com/LongHZ140516/MajutsuCity) |
+| 2025 | arXiv | Yo'City | [Yo'City: Personalized and Boundless 3D Realistic City Scene Generation via Self-Critic Expansion](https://arxiv.org/abs/2511.18734) |  |  |
+| 2025 | arXiv | RAISECity | [RAISECity: A Multimodal Agent Framework for Reality-Aligned 3D World Generation at City-Scale](https://arxiv.org/abs/2511.18005) |  |  |
+| 2026 | AAAI | LandCraft | [LandCraft: Designing the Structured 3D Landscapes via Text Guidance](https://arxiv.org/abs/2511.18005) |  | [![GitHub](https://img.shields.io/github/stars/RyuZhihao123/LandCraft_26)](https://github.com/RyuZhihao123/LandCraft_26) |
 
 
 ## Neural-3D Generation
@@ -274,7 +282,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | UniUGG | [UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding](https://arxiv.org/abs/2508.11952) | [![link](https://img.shields.io/badge/Website-9cf)](https://fudan-zvg.github.io/UniUGG/) | [![GitHub](https://img.shields.io/github/stars/fudan-zvg/UniUGG)](https://github.com/fudan-zvg/UniUGG) |
 | 2025 | arXiv | FlashWorld | [FlashWorld: High-quality 3D Scene Generation within Seconds](https://arxiv.org/abs/2510.13678) | [![link](https://img.shields.io/badge/Website-9cf)](https://imlixinyang.github.io/FlashWorld-Project-Page/) | [![GitHub](https://img.shields.io/github/stars/imlixinyang/FlashWorld)](https://github.com/imlixinyang/FlashWorld) |
 | 2025 | arXiv | WorldGrow | [WorldGrow: Generating Infinite 3D World](https://arxiv.org/abs/2510.21682) | [![link](https://img.shields.io/badge/Website-9cf)](https://world-grow.github.io/) | [![GitHub](https://img.shields.io/github/stars/world-grow/WorldGrow)](https://github.com/world-grow/WorldGrow) |
+| 2025 | arXiv | Diff4Splat | [Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models](https://arxiv.org/abs/2510.23880) | [![link](https://img.shields.io/badge/Website-9cf)](https://paulpanwang.github.io/Diff4Splat/) | [![GitHub](https://img.shields.io/github/stars/paulpanwang/Diff4Splat)](https://github.com/paulpanwang/Diff4Splat) |
 | 2025 | arXiv | Terra | [Terra: Explorable Native 3D World Model with Point Latents](https://arxiv.org/abs/2510.14977) | [![link](https://img.shields.io/badge/Website-9cf)](https://huang-yh.github.io/terra/) | [![GitHub](https://img.shields.io/github/stars/huang-yh/Terra)](https://github.com/huang-yh/Terra) |
+| 2025 | arXiv | TRELLISWorld | [TRELLISWorld: Training-Free World Generation from Object Generators](https://arxiv.org/abs/2510.23880) |  |  |
 
 
 ## Image-based Generation
@@ -323,6 +333,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | Matrix-3D | [Matrix-3D: Omnidirectional Explorable 3D World Generation](https://arxiv.org/abs/2508.08086) | [![link](https://img.shields.io/badge/Website-9cf)](https://matrix-3d.github.io/) | [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-3D)](https://github.com/SkyworkAI/Matrix-3D) |
 | 2025 | ICCV |  | [A Recipe for Generating 3D Worlds From a Single Image](https://arxiv.org/abs/2503.16611) | [![link](https://img.shields.io/badge/Website-9cf)](https://katjaschwarz.github.io/worlds/) |  |
 | 2025 | ICCV | DreamCube | [DreamCube: 3D Panorama Generation via Multi-plane Synchronization](https://arxiv.org/abs/2506.17206) | [![link](https://img.shields.io/badge/Website-9cf)](https://yukun-huang.github.io/DreamCube/) | [![GitHub](https://img.shields.io/github/stars/Yukun-Huang/DreamCube)](https://github.com/Yukun-Huang/DreamCube) |
+| 2025 | arXiv | OmniX | [OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes](https://arxiv.org/abs/2510.26800) | [![link](https://img.shields.io/badge/Website-9cf)](https://yukun-huang.github.io/OmniX/) | [![GitHub](https://img.shields.io/github/stars/HKU-MMLab/OmniX)](https://github.com/HKU-MMLab/OmniX) |
 
 ### Iterative Generation
 
@@ -595,6 +606,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | arXiv | EmbodiedCity | [EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment](https://arxiv.org/abs/2410.09604) | [![link](https://img.shields.io/badge/Website-9cf)](https://embodied-city.fiblab.net/) | [![GitHub](https://img.shields.io/github/stars/tsinghua-fib-lab/EmbodiedCity)](https://github.com/tsinghua-fib-lab/EmbodiedCity) |
 | 2024 | arXiv | InfiniteWorld | [InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction](https://arxiv.org/abs/2412.05789) |  | [![GitHub](https://img.shields.io/github/stars/pzhren/InfiniteWorld)](https://github.com/pzhren/InfiniteWorld) |
 | 2025 | ICLR | MetaUrban | [MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility](https://arxiv.org/abs/2407.08725) | [![link](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/metaurban/) | [![GitHub](https://img.shields.io/github/stars/metadriverse/metaurban)](https://github.com/metadriverse/metaurban) |
+| 2025 | arXiv | LEGO-Eval | [LEGO-Eval: Towards Fine-grained Evaluation on Synthesizing 3D Embodied Environments with Tool Augmentation](https://arxiv.org/abs/2511.03001) | [![link](https://img.shields.io/badge/Website-9cf)](https://gyeomh.github.io/LEGO-Eval/) | [![GitHub](https://img.shields.io/github/stars/gyeomh/LEGO-EVAL)](https://github.com/gyeomh/LEGO-EVAL) |
+| 2025 | arXiv | MarketGen | [MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments](https://arxiv.org/abs/2511.21161) | [![link](https://img.shields.io/badge/Website-9cf)](https://xuhu0529.github.io/MarketGen/) |  |
 
 ## Robotics
 
