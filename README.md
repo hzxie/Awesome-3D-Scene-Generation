@@ -291,7 +291,6 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | arXiv | BetterScene | [BetterScene: 3D Scene Synthesis with Representation-Aligned Generative Model](https://arxiv.org/abs/2602.22596) |  |  |
 | 2026 | arXiv | PERSIST | [Beyond Pixel Histories: World Models with Persistent 3D State](https://arxiv.org/abs/2603.03482) | [![link](https://img.shields.io/badge/Website-9cf)](https://francelico.github.io/persist.github.io/) | [![GitHub](https://img.shields.io/github/stars/francelico/PERSIST)](https://github.com/francelico/PERSIST) |
 | 2026 | AAAI | WorldGrow | [WorldGrow: Generating Infinite 3D World](https://arxiv.org/abs/2510.21682) | [![link](https://img.shields.io/badge/Website-9cf)](https://world-grow.github.io/) | [![GitHub](https://img.shields.io/github/stars/world-grow/WorldGrow)](https://github.com/world-grow/WorldGrow) |
-| 2026 | TPAMI | Sat2Density++ | [Seeing through Satellite Images at Street Views](https://arxiv.org/abs/2505.17001) | [![link](https://img.shields.io/badge/Website-9cf)](https://qianmingduowan.github.io/sat2density-pp/) | [![GitHub](https://img.shields.io/github/stars/qianmingduowan/Sat2Densitypp)](https://github.com/qianmingduowan/Sat2Densitypp) |
 
 ## Image-based Generation
 
@@ -342,6 +341,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | OmniX | [OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes](https://arxiv.org/abs/2510.26800) | [![link](https://img.shields.io/badge/Website-9cf)](https://yukun-huang.github.io/OmniX/) | [![GitHub](https://img.shields.io/github/stars/HKU-MMLab/OmniX)](https://github.com/HKU-MMLab/OmniX) |
 | 2026 | arXiv | GuidedSceneGen | [Scene Generation at Absolute Scale: Utilizing Semantic and Geometric Guidance From Text for Accurate and Interpretable 3D Indoor Scene Generation](https://arxiv.org/abs/2603.13910) |  |  |
 | 2026 | arXiv | RoamScene3D | [RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming](https://arxiv.org/abs/2601.19433) |  | [![GitHub](https://img.shields.io/github/stars/JS-CHU/RoamScene3D)](https://github.com/JS-CHU/RoamScene3D) |
+| 2026 | TPAMI | Sat2Density++ | [Seeing through Satellite Images at Street Views](https://arxiv.org/abs/2505.17001) | [![link](https://img.shields.io/badge/Website-9cf)](https://qianmingduowan.github.io/sat2density-pp/) | [![GitHub](https://img.shields.io/github/stars/qianmingduowan/Sat2Densitypp)](https://github.com/qianmingduowan/Sat2Densitypp) |
 | 2026 | ICLR | One2Scene | [One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image](https://arxiv.org/abs/2602.19766) | [![link](https://img.shields.io/badge/Website-9cf)](https://one2scene5406.github.io/) | [![GitHub](https://img.shields.io/github/stars/Wang-pengfei/One2Scene)](https://github.com/Wang-pengfei/One2Scene) |
 
 ### Iterative Generation
