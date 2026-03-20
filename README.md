@@ -158,6 +158,11 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | MarketGen | [MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments](https://arxiv.org/abs/2511.21161) | [![link](https://img.shields.io/badge/Website-9cf)](https://xuhu0529.github.io/MarketGen/) |  |
 | 2025 | arXiv | MajutsuCity | [MajutsuCity: Language-driven Aesthetic-adaptive City Generation with Controllable 3D Assets and Layouts](https://arxiv.org/abs/2511.20415) | [![link](https://img.shields.io/badge/Website-9cf)](https://longhz140516.github.io/MajutsuCity/) | [![GitHub](https://img.shields.io/github/stars/LongHZ140516/MajutsuCity)](https://github.com/LongHZ140516/MajutsuCity) |
 | 2026 | arXiv | SceneFoundry | [SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810) | [![link](https://img.shields.io/badge/Website-9cf)](https://anc891203.github.io/SceneFoundry-Demo/) | [![GitHub](https://img.shields.io/github/stars/anc891203/SceneFoundry)](https://github.com/anc891203/SceneFoundry) |
+| 2026 | arXiv | MANSION | [MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks](https://arxiv.org/abs/2603.11554) | [![link](https://img.shields.io/badge/Website-9cf)](https://agibotgeneral.github.io/mansion-site/) | [![GitHub](https://img.shields.io/github/stars/AgibotGeneral/MANSION)](https://github.com/AgibotGeneral/MANSION) |
+| 2026 | arXiv | SAGE | [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/sage/) | [![GitHub](https://img.shields.io/github/stars/NVlabs/sage)](https://github.com/NVlabs/sage) |
+| 2026 | arXiv | SceneAssistant | [SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation](https://arxiv.org/abs/2603.12238) |  | [![GitHub](https://img.shields.io/github/stars/ROUJINN/SceneAssistant)](https://github.com/ROUJINN/SceneAssistant) |
+| 2026 | arXiv | Code2Worlds | [Code2Worlds: Empowering Coding LLMs for 4D World Generation](https://arxiv.org/abs/2602.11757) | [![link](https://img.shields.io/badge/Website-9cf)](https://aigeeksgroup.github.io/Code2Worlds/) | [![GitHub](https://img.shields.io/github/stars/AIGeeksGroup/Code2Worlds)](https://github.com/AIGeeksGroup/Code2Worlds) |
+| 2026 | arXiv | SceneSmith | [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://arxiv.org/abs/2602.09153) | [![link](https://img.shields.io/badge/Website-9cf)](https://scenesmith.github.io/) | [![GitHub](https://img.shields.io/github/stars/nepfaff/scenesmith)](https://github.com/nepfaff/scenesmith) |
 | 2026 | AAAI | LandCraft | [LandCraft: Designing the Structured 3D Landscapes via Text Guidance](https://arxiv.org/abs/2511.18005) |  | [![GitHub](https://img.shields.io/github/stars/RyuZhihao123/LandCraft_26)](https://github.com/RyuZhihao123/LandCraft_26) |
 | 2026 | AAAI | Reason-3D | [Text-to-Scene with Large Reasoning Models](https://arxiv.org/abs/2509.26091) | [![link](https://img.shields.io/badge/Website-9cf)](https://lucala.github.io/reason-3d-demo/) | [![GitHub](https://img.shields.io/github/stars/ETH-DISCO/reason-3d)](https://github.com/ETH-DISCO/reason-3d) |
 | 2026 | CVPR | RAISECity | [RAISECity: A Multimodal Agent Framework for Reality-Aligned 3D World Generation at City-Scale](https://arxiv.org/abs/2511.18005) |  | [![GitHub](https://img.shields.io/github/stars/tsinghua-fib-lab/RAISECity)](https://github.com/tsinghua-fib-lab/RAISECity) |
@@ -191,7 +196,6 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | MM | RelScene | [RelScene: A Benchmark and baseline for Spatial Relations in text-driven 3D Scene Generation](https://openreview.net/forum?id=GIw7pmMPPX) |  |  |
 | 2024 | NeurIPS | DeBaRA | [DeBaRA: Denoising-Based 3D Room Arrangement Generation](https://arxiv.org/abs/2409.18336) |  |  |
 | 2024 | SIGGRAPH | INFERACT | [Physics-based Scene Layout Generation From Human Motion](https://arxiv.org/abs/2405.12460) | [![link](https://img.shields.io/badge/Website-9cf)](https://jiann-li.github.io/physcenegen/) |  |
-| 2024 | arXiv | Lay-A-Scene | [Lay-A-Scene: Personalized 3D Object Arrangement Using Text-to-Image Priors](https://arxiv.org/abs/2406.00687) | [![link](https://img.shields.io/badge/Website-9cf)](https://lay-a-scene.github.io/) | [![GitHub](https://img.shields.io/github/stars/ohad204/Lay-A-Scene)](https://github.com/ohad204/Lay-A-Scene) |
 | 2025 | 3DV | Ctrl-Room | [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602) | [![link](https://img.shields.io/badge/Website-9cf)](https://fangchuan.github.io/ctrl-room.github.io/) | [![GitHub](https://img.shields.io/github/stars/fangchuan/Ctrl-Room)](https://github.com/fangchuan/Ctrl-Room) |
 | 2025 | CVPR | SceneFactor | [SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation](https://arxiv.org/abs/2412.01801) | [![link](https://img.shields.io/badge/Website-9cf)](https://alexeybokhovkin.github.io/scenefactor/) | [![GitHub](https://img.shields.io/github/stars/alexeybokhovkin/SceneFactor)](https://github.com/alexeybokhovkin/SceneFactor) |
 | 2025 | CVPR | CASAGPT | [CASAGPT: Cuboid Arrangement and Scene Assembly for Interior Design](https://arxiv.org/abs/2504.19478) |  | [![GitHub](https://img.shields.io/github/stars/CASAGPT/CASA-GPT?style=social)](https://github.com/CASAGPT/CASA-GPT) |
@@ -223,7 +227,6 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICCV |  | [Controllable 3D Outdoor Scene Generation via Scene Graphs](https://arxiv.org/abs/2503.07152) |  | [![GitHub](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene)](https://github.com/yuhengliu02/control-3d-scene) |
 | 2025 | arXiv | HiScene | [HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation](https://arxiv.org/abs/2504.13072) | [![link](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/hiscene/) |  |
 | 2025 | arXiv | Imaginarium | [Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation](https://arxiv.org/abs/2510.15564) |  |  |
-
 
 ### Semantic Layout
 
@@ -284,8 +287,11 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | Diff4Splat | [Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models](https://arxiv.org/abs/2510.23880) | [![link](https://img.shields.io/badge/Website-9cf)](https://paulpanwang.github.io/Diff4Splat/) | [![GitHub](https://img.shields.io/github/stars/paulpanwang/Diff4Splat)](https://github.com/paulpanwang/Diff4Splat) |
 | 2025 | arXiv | Terra | [Terra: Explorable Native 3D World Model with Point Latents](https://arxiv.org/abs/2510.14977) | [![link](https://img.shields.io/badge/Website-9cf)](https://huang-yh.github.io/terra/) | [![GitHub](https://img.shields.io/github/stars/huang-yh/Terra)](https://github.com/huang-yh/Terra) |
 | 2025 | arXiv | TRELLISWorld | [TRELLISWorld: Training-Free World Generation from Object Generators](https://arxiv.org/abs/2510.23880) |  |  |
+| 2026 | arXiv | ScenDi | [ScenDi: 3D-to-2D Scene Diffusion Cascades for Urban Generation](https://arxiv.org/abs/2601.15221) | [![link](https://img.shields.io/badge/Website-9cf)](https://xdimlab.github.io/ScenDi_website/) |  |
+| 2026 | arXiv | BetterScene | [BetterScene: 3D Scene Synthesis with Representation-Aligned Generative Model](https://arxiv.org/abs/2602.22596) |  |  |
+| 2026 | arXiv | PERSIST | [Beyond Pixel Histories: World Models with Persistent 3D State](https://arxiv.org/abs/2603.03482) | [![link](https://img.shields.io/badge/Website-9cf)](https://francelico.github.io/persist.github.io/) | [![GitHub](https://img.shields.io/github/stars/francelico/PERSIST)](https://github.com/francelico/PERSIST) |
 | 2026 | AAAI | WorldGrow | [WorldGrow: Generating Infinite 3D World](https://arxiv.org/abs/2510.21682) | [![link](https://img.shields.io/badge/Website-9cf)](https://world-grow.github.io/) | [![GitHub](https://img.shields.io/github/stars/world-grow/WorldGrow)](https://github.com/world-grow/WorldGrow) |
-
+| 2026 | TPAMI | Sat2Density++ | [Seeing through Satellite Images at Street Views](https://arxiv.org/abs/2505.17001) | [![link](https://img.shields.io/badge/Website-9cf)](https://qianmingduowan.github.io/sat2density-pp/) | [![GitHub](https://img.shields.io/github/stars/qianmingduowan/Sat2Densitypp)](https://github.com/qianmingduowan/Sat2Densitypp) |
 
 ## Image-based Generation
 
@@ -334,6 +340,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICCV |  | [A Recipe for Generating 3D Worlds From a Single Image](https://arxiv.org/abs/2503.16611) | [![link](https://img.shields.io/badge/Website-9cf)](https://katjaschwarz.github.io/worlds/) |  |
 | 2025 | ICCV | DreamCube | [DreamCube: 3D Panorama Generation via Multi-plane Synchronization](https://arxiv.org/abs/2506.17206) | [![link](https://img.shields.io/badge/Website-9cf)](https://yukun-huang.github.io/DreamCube/) | [![GitHub](https://img.shields.io/github/stars/Yukun-Huang/DreamCube)](https://github.com/Yukun-Huang/DreamCube) |
 | 2025 | arXiv | OmniX | [OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes](https://arxiv.org/abs/2510.26800) | [![link](https://img.shields.io/badge/Website-9cf)](https://yukun-huang.github.io/OmniX/) | [![GitHub](https://img.shields.io/github/stars/HKU-MMLab/OmniX)](https://github.com/HKU-MMLab/OmniX) |
+| 2026 | arXiv | GuidedSceneGen | [Scene Generation at Absolute Scale: Utilizing Semantic and Geometric Guidance From Text for Accurate and Interpretable 3D Indoor Scene Generation](https://arxiv.org/abs/2603.13910) |  |  |
+| 2026 | arXiv | RoamScene3D | [RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming](https://arxiv.org/abs/2601.19433) |  | [![GitHub](https://img.shields.io/github/stars/JS-CHU/RoamScene3D)](https://github.com/JS-CHU/RoamScene3D) |
+| 2026 | ICLR | One2Scene | [One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image](https://arxiv.org/abs/2602.19766) | [![link](https://img.shields.io/badge/Website-9cf)](https://one2scene5406.github.io/) | [![GitHub](https://img.shields.io/github/stars/Wang-pengfei/One2Scene)](https://github.com/Wang-pengfei/One2Scene) |
 
 ### Iterative Generation
 
@@ -386,7 +395,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | CausNVS | [CausNVS: Autoregressive Multi-view Diffusion for Flexible 3D Novel View Synthesis](https://arxiv.org/abs/2509.06579) | [![link](https://img.shields.io/badge/Website-9cf)](https://kxhit.github.io/CausNVS.html) |  |
 | 2025 | arXiv | WonderZoom | [WonderZoom: Multi-Scale 3D World Generation](https://arxiv.org/abs/2512.09164) | [![link](https://img.shields.io/badge/Website-9cf)](https://wonderzoom.github.io/) | [![GitHub](https://img.shields.io/github/stars/jin-cao-tma/WonderZoom)](https://github.com/jin-cao-tma/WonderZoom) |
 | 2025 | ICCV | ScenePainter | [ScenePainter: Semantically Consistent Perpetual 3D Scene Generation with Concept Relation Alignment](https://arxiv.org/abs/2507.19058) | [![link](https://img.shields.io/badge/Website-9cf)](https://xiac20.github.io/ScenePainter/) | [![GitHub](https://img.shields.io/github/stars/xiac20/ScenePainter)](https://github.com/xiac20/ScenePainter) |
-
+| 2026 | arXiv | GeoDiff3D | [GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance](https://arxiv.org/abs/2601.19785) |  |  |
 
 ## Video-based Generation
 
@@ -488,6 +497,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | Captain Safari | [Captain Safari: A World Engine](https://arxiv.org/abs/2511.22815) | [![link](https://img.shields.io/badge/Website-9cf)](https://johnson111788.github.io/open-safari/) |  |
 | 2025 | arXiv | MagicWorld | [MagicWorld: Interactive Geometry-driven Video World Exploration](https://arxiv.org/abs/2511.18886) | [![link](https://img.shields.io/badge/Website-9cf)](https://vivocameraresearch.github.io/magicworld/) | [![GitHub](https://img.shields.io/github/stars/vivoCameraResearch/magicworld)](https://github.com/vivoCameraResearch/magicworld) |
 | 2025 | arXiv | One4D | [One4D: Unified 4D Generation and Reconstruction via Decoupled LoRA Control](https://arxiv.org/abs/2511.18922) | [![link](https://img.shields.io/badge/Website-9cf)](https://mizhenxing.github.io/One4D/) | [![GitHub](https://img.shields.io/github/stars/MiZhenxing/One4D)](https://github.com/MiZhenxing/One4D) |
+| 2026 | CVPR | PerpetualWonder | [PerpetualWonder: Long-Horizon Action-Conditioned 4D Scene Generation](https://arxiv.org/abs/2602.04876) | [![link](https://img.shields.io/badge/Website-9cf)](https://johnzhan2023.github.io/PerpetualWonder/) | [![GitHub](https://img.shields.io/github/stars/JohnZhan2023/PerpetualWonder)](https://github.com/JohnZhan2023/PerpetualWonder) |
 | 2026 | ICRA | UniFuture | [Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception](https://arxiv.org/abs/2503.13587) | [![link](https://img.shields.io/badge/Website-9cf)](https://dk-liang.github.io/UniFuture/) | [![GitHub](https://img.shields.io/github/stars/dk-liang/UniFuture)](https://github.com/dk-liang/UniFuture) |
 
 
@@ -579,6 +589,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | RoomPainter | [RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing](https://arxiv.org/abs/2412.16778) |  |  |
 | 2025 | SIGGRAPH | ReStyle3D | [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.10377) | [![link](https://img.shields.io/badge/Website-9cf)](https://restyle3d.github.io/) | [![GitHub](https://img.shields.io/github/stars/GradientSpaces/ReStyle3D)](https://github.com/GradientSpaces/ReStyle3D) |
 | 2025 | NeurIPS | Styl3R | [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [![link](https://img.shields.io/badge/Website-9cf)](https://nickisdope.github.io/Styl3R/) | [![GitHub](https://img.shields.io/github/stars/WU-CVGL/Styl3R)](https://github.com/WU-CVGL/Styl3R) |
+| 2026 | CVPR | Catalyst4D | [Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation](https://arxiv.org/abs/2603.12766) | [![link](https://img.shields.io/badge/Website-9cf)](https://junliao2025.github.io/Catalyst4D-ProjectPage/) |  |
 
 ## Human-Scene Interaction
 
@@ -612,6 +623,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | LEGO-Eval | [LEGO-Eval: Towards Fine-grained Evaluation on Synthesizing 3D Embodied Environments with Tool Augmentation](https://arxiv.org/abs/2511.03001) | [![link](https://img.shields.io/badge/Website-9cf)](https://gyeomh.github.io/LEGO-Eval/) | [![GitHub](https://img.shields.io/github/stars/gyeomh/LEGO-EVAL)](https://github.com/gyeomh/LEGO-EVAL) |
 | 2025 | arXiv | MarketGen | [MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments](https://arxiv.org/abs/2511.21161) | [![link](https://img.shields.io/badge/Website-9cf)](https://xuhu0529.github.io/MarketGen/) |  |
 | 2025 | arXiv | TabletopGen | [TabletopGen: Instance-Level Interactive 3D Tabletop Scene Generation from Text or Single Image](https://arxiv.org/abs/2512.01204) | [![link](https://img.shields.io/badge/Website-9cf)](https://d-robotics-ai-lab.github.io/TabletopGen.project/) | [![GitHub](https://img.shields.io/github/stars/D-Robotics-AI-Lab/TabletopGen)](https://github.com/D-Robotics-AI-Lab/TabletopGen) |
+| 2026 | arXiv | MANSION | [MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks](https://arxiv.org/abs/2603.11554) | [![link](https://img.shields.io/badge/Website-9cf)](https://agibotgeneral.github.io/mansion-site/) | [![GitHub](https://img.shields.io/github/stars/AgibotGeneral/MANSION)](https://github.com/AgibotGeneral/MANSION) |
+| 2026 | arXiv | SAGE | [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/sage/) | [![GitHub](https://img.shields.io/github/stars/NVlabs/sage)](https://github.com/NVlabs/sage) |
 
 ## Robotics
 
