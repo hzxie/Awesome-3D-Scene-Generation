@@ -590,6 +590,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | SIGGRAPH | ReStyle3D | [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.10377) | [![link](https://img.shields.io/badge/Website-9cf)](https://restyle3d.github.io/) | [![GitHub](https://img.shields.io/github/stars/GradientSpaces/ReStyle3D)](https://github.com/GradientSpaces/ReStyle3D) |
 | 2025 | NeurIPS | Styl3R | [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [![link](https://img.shields.io/badge/Website-9cf)](https://nickisdope.github.io/Styl3R/) | [![GitHub](https://img.shields.io/github/stars/WU-CVGL/Styl3R)](https://github.com/WU-CVGL/Styl3R) |
 | 2026 | CVPR | Catalyst4D | [Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation](https://arxiv.org/abs/2603.12766) | [![link](https://img.shields.io/badge/Website-9cf)](https://junliao2025.github.io/Catalyst4D-ProjectPage/) |  |
+| 2026 | CVPR | Edit-As-Act | [Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing](https://arxiv.org/abs/2603.17583) | [![link](https://img.shields.io/badge/Website-9cf)](https://seongraenoh.github.io/edit-as-act/) | [![GitHub](https://img.shields.io/github/stars/SeongRaeNoh/Edit-As-Act)](https://github.com/SeongRaeNoh/Edit-As-Act) |
 
 ## Human-Scene Interaction
 
